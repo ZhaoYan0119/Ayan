@@ -1,2 +1,6 @@
-# Ayan
+# Study Notes
+
 txt
+
+# github 
+
