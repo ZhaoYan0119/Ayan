@@ -11,3 +11,4 @@ reset                              重置 初始化
 history                            查看历史命令
 git branch                         查看当前所在分支
 git remote show origin             查看所有远程库
+git merge                          合并
