@@ -9,5 +9,5 @@ rm -r                              删除文件夹E
 mv                                 移动文件
 reset                              重置 初始化
 history                            查看历史命令
-git branch                         
+git branch                         查看当前所在分支
 git remote show origin             查看所有远程库
