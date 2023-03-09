@@ -20,4 +20,4 @@ git fetch [remote-name]                      从远程仓库抓取
 git tag -a/-s/-m                             标签
 git config --global alias.last 'log -1 HEAD' 设置全局快捷指令git last代替git log -1 HEAD
 git branch --no-merged                       查看所有包含未合并的分支
-git branch --merged                           查看哪些分支已合并到当前分支
+git branch --merged                          查看哪些分支已合并到当前分支
