@@ -11,6 +11,7 @@ reset                                        重置 初始化
 history                                      查看历史命令
 git branch                                   查看当前所在分支
 git remote show origin                       查看所有远程库
+git ls-remote origin                         显示获取远程引用的完整列表
 git merge                                    合并
 git branch -a                                查看分支
 git branch -d <BranchName>                   删除本地分支(需切换到其他分支操作)
