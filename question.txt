@@ -1,0 +1,3 @@
+merge rebase 合并 变基
+合并请求引用 P187
+push的时候 有时需要 git push origin HEAD:***
