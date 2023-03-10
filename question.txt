@@ -1,1 +1,7 @@
-merge rebase 合并 变基
+merge rebase 合并 变基（慎用）
+
+## push的时候 有时需要 git push origin HEAD:***
+未用ubuntu
+正确打开
+
+合并请求引用 P187
