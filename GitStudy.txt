@@ -1,0 +1,24 @@
+# git
+cd ..                                        返回上一层
+pwd                                          查看当前目录
+ls                                           列出当前目录下所有文件
+touch                                        创建文件
+rm                                           删除文件
+mkdir                                        创建文件夹
+rm -r                                        删除文件夹E
+mv                                           移动文件
+reset                                        重置 初始化
+history                                      查看历史命令
+git branch                                   查看当前所在分支
+git remote show origin                       查看所有远程库
+git ls-remote origin                         显示获取远程引用的完整列表
+git merge                                    合并
+git branch -a                                查看分支
+git branch -d <BranchName>                   删除本地分支(需切换到其他分支操作)
+git push origin --delete <BranchName>        删除远程分支
+git fetch [remote-name]                      从远程仓库抓取
+git tag -a/-s/-m                             标签
+git config --global alias.last 'log -1 HEAD' 设置全局快捷指令git last代替git log -1 HEAD
+git branch --no-merged                       查看所有包含未合并的分支
+git branch --merged                          查看哪些分支已合并到当前分支
+git log --graph --all                        查看分支走向
